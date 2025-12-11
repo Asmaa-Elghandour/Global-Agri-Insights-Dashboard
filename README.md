@@ -86,20 +86,18 @@ Analyzes **crop production, food availability, and long-term trends**.
 ---
 
 
+### 📸 ScreenShots 
 
-> This page gives an **overall snapshot** of global agricultural performance and fertilizer efficiency.
-
-### Screenshot
+### Overview
 <img src="https://github.com/Asmaa-Elghandour/Global-Agri-Insights-Dashboard/blob/main/ScreenShots/Overview.png?raw=true" width="90%">
 
-This page highlights the **relationship between land use, crop production, and sustainability**.
 
-### Screenshot
+### Fertilizers
 <img src="https://github.com/Asmaa-Elghandour/Global-Agri-Insights-Dashboard/blob/main/ScreenShots/Fertilizers.png?raw=true" width="90%">
 
- Crops & Production Dashboard 
-### Screenshot
+ ### Crops & Production Dashboard 
 <img src="https://github.com/Asmaa-Elghandour/Global-Agri-Insights-Dashboard/blob/main/ScreenShots/Crops%20&%20Land%20Efficiency%20Dashboard.png?raw=true" width="90%">
 
 ---
+
 
