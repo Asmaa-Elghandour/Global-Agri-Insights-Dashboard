@@ -33,11 +33,6 @@ Provides a **high-level summary of global agriculture**, including:
 - Top fertilizer-consuming countries
 - Yield per hectare trend (1960–2000)
 
-> This page gives an **overall snapshot** of global agricultural performance and fertilizer efficiency.
-
-### Screenshot
-<img src="https://github.com/Asmaa-Elghandour/Global-Agri-Insights-Dashboard/blob/main/ScreenShots/Overview.png?raw=true" width="90%">
-
 ---
 
 ## 🌱 2 — Fertilizers & Land Dashboard 
@@ -54,11 +49,6 @@ Focuses on **agricultural land insights** and **fertilizer-related analytics**.
 - Top 5 crop categories by production share
 - Land efficiency trend (1960–2000)
 - Forest area trend over time
-
-> This page highlights the **relationship between land use, crop production, and sustainability**.
-
-### Screenshot
-<img src="https://github.com/Asmaa-Elghandour/Global-Agri-Insights-Dashboard/blob/main/ScreenShots/Fertilizers.png?raw=true" width="90%">
 
 ---
 
@@ -86,10 +76,6 @@ Analyzes **crop production, food availability, and long-term trends**.
 - Fertilizer use is increasing faster than yields
 - Forest area grows slowly compared to agriculture
 
-### Screenshot
-<img src="https://github.com/Asmaa-Elghandour/Global-Agri-Insights-Dashboard/blob/main/ScreenShots/Crops%20&%20Land%20Efficiency%20Dashboard.png?raw=true" width="90%">
-
----
 
 ## 🛠 Technologies Used
 - Power BI (primary tool)
@@ -101,4 +87,19 @@ Analyzes **crop production, food availability, and long-term trends**.
 
 
 
+> This page gives an **overall snapshot** of global agricultural performance and fertilizer efficiency.
+
+### Screenshot
+<img src="https://github.com/Asmaa-Elghandour/Global-Agri-Insights-Dashboard/blob/main/ScreenShots/Overview.png?raw=true" width="90%">
+
+This page highlights the **relationship between land use, crop production, and sustainability**.
+
+### Screenshot
+<img src="https://github.com/Asmaa-Elghandour/Global-Agri-Insights-Dashboard/blob/main/ScreenShots/Fertilizers.png?raw=true" width="90%">
+
+ Crops & Production Dashboard 
+### Screenshot
+<img src="https://github.com/Asmaa-Elghandour/Global-Agri-Insights-Dashboard/blob/main/ScreenShots/Crops%20&%20Land%20Efficiency%20Dashboard.png?raw=true" width="90%">
+
+---
 
