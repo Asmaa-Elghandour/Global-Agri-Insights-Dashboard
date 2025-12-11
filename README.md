@@ -1,4 +1,4 @@
-**🌾 Global Agriculture, Land & Forest Dashboard
+##🌾 Global Agriculture, Land & Forest Dashboard
 Power BI Project – FAO Dataset Analysis
 
 This dashboard provides a comprehensive overview of global agricultural production, land distribution, fertilizer use, and forest resources using data from the FAO (Food and Agriculture Organization).
@@ -9,12 +9,12 @@ The goal is to offer clear, data-driven insights into productivity, land efficie
 The dataset used in this project is too large to be hosted directly on GitHub.
 Instead, the original source from Kaggle is referenced below:
 
-***📌 Global Food and Agriculture Statistics (FAO)
+###📌 Global Food and Agriculture Statistics (FAO)
 🔗 https://www.kaggle.com/datasets/unitednations/global-food-agriculture-statistics
 
 This link will take you to the official Kaggle page where you can download the full dataset used in this analysis.
 
-***📁 Project Structure
+###📁 Project Structure
 ***1️⃣ Overview Page
 
 A high-level snapshot of the global agriculture system, including:
@@ -175,3 +175,4 @@ Agricultural productivity patterns
 <img src="https://github.com/Asmaa-Elghandour/Global-Agri-Insights-Dashboard/blob/main/ScreenShots/Fertilizers.png?raw=true" width="90%">
 ***🟧 3. Crops & Land Efficiency Dashboard
 <img src="https://github.com/Asmaa-Elghandour/Global-Agri-Insights-Dashboard/blob/main/ScreenShots/Crops%20&%20Land%20Efficiency%20Dashboard.png?raw=true" width="90%">
+
